@@ -1,0 +1,73 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: Claire Nabours
+date: last-modified
+phone: 636-515-5395
+address: "Los Angeles, CA"
+email: cnabours@ucla.edu
+fontsize: 11pt
+#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+#mainfont: Ubuntu # if you want to use a different locally installed font
+#CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
+#github: github # github account
+#osf: ymqui # osf five character id
+#twitter: twitter # twitter handle
+web: quarto.org
+fontawesome: yes
+nocite: '@*'
+bibliography: 
+  peer: peer_bib.bib
+  other: other_bib.bib
+validate-yaml: false
+csl: apa-cv.csl
+---
+
+# Employment
+
+Reinsurance Group of America (St. Louis, MO)
+
+*Business Architecture Intern* \hfill June 2025 -September 2025
+
+Northrop Grumman (Baltimore, MD)
+
+*College Technical Intern*  \hfill June2024 - August 2024
+
+UCLA Competitive Sports (Los Angeles, CA)
+
+*General Manager* \hfill October 2023 - Present
+
+UCLA Samueli School of Engineering (Los Angeles, CA)
+
+*Engineering Ambassador* \hfill May 2023 - October 2023
+
+ASUCLA Techzone (Los Angeles, CA)
+
+*Apple Certified Technician* \hfill January 2023 - May 2023
+
+
+# Education
+
+University of California, Los Angeles \hfill 2026 
+
+B.S. Statistics and Data Science
+
+# Certifications and Clearance
+
+Alteryx Designer Core Certification \hfill Achieved: August 2025
+
+Active Secret Clearance \hfill Granted: January 2024
+
+# Skills
+
+Python, R, SQL, Power BI, Tableau, Simulation, Modeling, Optimization, Neural networks, Probability, Statistics, & Experimental design.
+
+# Additional Activities & Interests
+
+Activities: Kappa Kappa Gamma Sorority.
+
+Interests: AI, Data Science, Machine Learning, Neural Networks, Software Development, Simulation, and Consulting.
+
+
+
